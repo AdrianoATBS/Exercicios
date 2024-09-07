@@ -1,0 +1,14 @@
+C:\Users\Pichau\Desktop\Listas-de-Exercício\Correções-Exercicio\Correção-pdfPrimeiros-Exercicios\obj\Debug\net8.0\Correção-pdfPrimeiros-Exercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Listas-de-Exercício\Correções-Exercicio\Correção-pdfPrimeiros-Exercicios\obj\Debug\net8.0\Correção-pdfPrimeiros-Exercicios.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Listas-de-Exercício\Correções-Exercicio\Correção-pdfPrimeiros-Exercicios\obj\Debug\net8.0\Correção-pdfPrimeiros-Exercicios.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Listas-de-Exercício\Correções-Exercicio\Correção-pdfPrimeiros-Exercicios\obj\Debug\net8.0\Correção-pdfPrimeiros-Exercicios.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Listas-de-Exercício\Correções-Exercicio\Correção-pdfPrimeiros-Exercicios\bin\Debug\net8.0\Correção-pdfPrimeiros-Exercicios.exe
+C:\Users\Pichau\Desktop\Listas-de-Exercício\Correções-Exercicio\Correção-pdfPrimeiros-Exercicios\bin\Debug\net8.0\Correção-pdfPrimeiros-Exercicios.deps.json
+C:\Users\Pichau\Desktop\Listas-de-Exercício\Correções-Exercicio\Correção-pdfPrimeiros-Exercicios\bin\Debug\net8.0\Correção-pdfPrimeiros-Exercicios.runtimeconfig.json
+C:\Users\Pichau\Desktop\Listas-de-Exercício\Correções-Exercicio\Correção-pdfPrimeiros-Exercicios\bin\Debug\net8.0\Correção-pdfPrimeiros-Exercicios.dll
+C:\Users\Pichau\Desktop\Listas-de-Exercício\Correções-Exercicio\Correção-pdfPrimeiros-Exercicios\bin\Debug\net8.0\Correção-pdfPrimeiros-Exercicios.pdb
+C:\Users\Pichau\Desktop\Listas-de-Exercício\Correções-Exercicio\Correção-pdfPrimeiros-Exercicios\obj\Debug\net8.0\Correção-pdfPrimeiros-Exercicios.dll
+C:\Users\Pichau\Desktop\Listas-de-Exercício\Correções-Exercicio\Correção-pdfPrimeiros-Exercicios\obj\Debug\net8.0\refint\Correção-pdfPrimeiros-Exercicios.dll
+C:\Users\Pichau\Desktop\Listas-de-Exercício\Correções-Exercicio\Correção-pdfPrimeiros-Exercicios\obj\Debug\net8.0\Correção-pdfPrimeiros-Exercicios.pdb
+C:\Users\Pichau\Desktop\Listas-de-Exercício\Correções-Exercicio\Correção-pdfPrimeiros-Exercicios\obj\Debug\net8.0\Correção-pdfPrimeiros-Exercicios.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Listas-de-Exercício\Correções-Exercicio\Correção-pdfPrimeiros-Exercicios\obj\Debug\net8.0\ref\Correção-pdfPrimeiros-Exercicios.dll
