@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Correcao-pdfExercícioAula61/1.0.0": {
+        "runtime": {
+          "Correcao-pdfExercícioAula61.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Correcao-pdfExercícioAula61/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
