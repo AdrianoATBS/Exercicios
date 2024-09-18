@@ -1,0 +1,15 @@
+c:\Users\Adria\OneDrive\Desktop\Exercício\Correcao-pdfExercicioAula80\obj\Debug\net8.0\Correcao-pdfExercicioAula80.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Adria\OneDrive\Desktop\Exercício\Correcao-pdfExercicioAula80\obj\Debug\net8.0\Correcao-pdfExercicioAula80.AssemblyInfoInputs.cache
+c:\Users\Adria\OneDrive\Desktop\Exercício\Correcao-pdfExercicioAula80\obj\Debug\net8.0\Correcao-pdfExercicioAula80.AssemblyInfo.cs
+c:\Users\Adria\OneDrive\Desktop\Exercício\Correcao-pdfExercicioAula80\obj\Debug\net8.0\Correcao-pdfExercicioAula80.csproj.CoreCompileInputs.cache
+c:\Users\Adria\OneDrive\Desktop\Exercício\Correcao-pdfExercicioAula80\obj\Debug\net8.0\Correcao-pdfExercicioAula80.sourcelink.json
+C:\Users\Adria\OneDrive\Desktop\Exercício\Correcao-pdfExercicioAula80\bin\Debug\net8.0\Correcao-pdfExercicioAula80.exe
+C:\Users\Adria\OneDrive\Desktop\Exercício\Correcao-pdfExercicioAula80\bin\Debug\net8.0\Correcao-pdfExercicioAula80.deps.json
+C:\Users\Adria\OneDrive\Desktop\Exercício\Correcao-pdfExercicioAula80\bin\Debug\net8.0\Correcao-pdfExercicioAula80.runtimeconfig.json
+C:\Users\Adria\OneDrive\Desktop\Exercício\Correcao-pdfExercicioAula80\bin\Debug\net8.0\Correcao-pdfExercicioAula80.dll
+C:\Users\Adria\OneDrive\Desktop\Exercício\Correcao-pdfExercicioAula80\bin\Debug\net8.0\Correcao-pdfExercicioAula80.pdb
+C:\Users\Adria\OneDrive\Desktop\Exercício\Correcao-pdfExercicioAula80\obj\Debug\net8.0\Correcao-pdfExercicioAula80.dll
+C:\Users\Adria\OneDrive\Desktop\Exercício\Correcao-pdfExercicioAula80\obj\Debug\net8.0\refint\Correcao-pdfExercicioAula80.dll
+C:\Users\Adria\OneDrive\Desktop\Exercício\Correcao-pdfExercicioAula80\obj\Debug\net8.0\Correcao-pdfExercicioAula80.pdb
+C:\Users\Adria\OneDrive\Desktop\Exercício\Correcao-pdfExercicioAula80\obj\Debug\net8.0\Correcao-pdfExercicioAula80.genruntimeconfig.cache
+C:\Users\Adria\OneDrive\Desktop\Exercício\Correcao-pdfExercicioAula80\obj\Debug\net8.0\ref\Correcao-pdfExercicioAula80.dll
