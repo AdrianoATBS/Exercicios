@@ -1,0 +1,14 @@
+C:\Users\Pichau\Desktop\Listas-de-Exercício\Correcao-pdfExercicioAula78\bin\Debug\net8.0\Correcao-pdfExercicioAula78.exe
+C:\Users\Pichau\Desktop\Listas-de-Exercício\Correcao-pdfExercicioAula78\bin\Debug\net8.0\Correcao-pdfExercicioAula78.deps.json
+C:\Users\Pichau\Desktop\Listas-de-Exercício\Correcao-pdfExercicioAula78\bin\Debug\net8.0\Correcao-pdfExercicioAula78.runtimeconfig.json
+C:\Users\Pichau\Desktop\Listas-de-Exercício\Correcao-pdfExercicioAula78\bin\Debug\net8.0\Correcao-pdfExercicioAula78.dll
+C:\Users\Pichau\Desktop\Listas-de-Exercício\Correcao-pdfExercicioAula78\bin\Debug\net8.0\Correcao-pdfExercicioAula78.pdb
+C:\Users\Pichau\Desktop\Listas-de-Exercício\Correcao-pdfExercicioAula78\obj\Debug\net8.0\Correcao-pdfExercicioAula78.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Listas-de-Exercício\Correcao-pdfExercicioAula78\obj\Debug\net8.0\Correcao-pdfExercicioAula78.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Listas-de-Exercício\Correcao-pdfExercicioAula78\obj\Debug\net8.0\Correcao-pdfExercicioAula78.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Listas-de-Exercício\Correcao-pdfExercicioAula78\obj\Debug\net8.0\Correcao-pdfExercicioAula78.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Listas-de-Exercício\Correcao-pdfExercicioAula78\obj\Debug\net8.0\Correcao-pdfExercicioAula78.dll
+C:\Users\Pichau\Desktop\Listas-de-Exercício\Correcao-pdfExercicioAula78\obj\Debug\net8.0\refint\Correcao-pdfExercicioAula78.dll
+C:\Users\Pichau\Desktop\Listas-de-Exercício\Correcao-pdfExercicioAula78\obj\Debug\net8.0\Correcao-pdfExercicioAula78.pdb
+C:\Users\Pichau\Desktop\Listas-de-Exercício\Correcao-pdfExercicioAula78\obj\Debug\net8.0\Correcao-pdfExercicioAula78.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Listas-de-Exercício\Correcao-pdfExercicioAula78\obj\Debug\net8.0\ref\Correcao-pdfExercicioAula78.dll

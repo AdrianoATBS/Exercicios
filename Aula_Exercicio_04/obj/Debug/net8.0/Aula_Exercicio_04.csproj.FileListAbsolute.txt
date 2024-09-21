@@ -1,0 +1,14 @@
+C:\Users\Pichau\Desktop\C#.UDEMY\AulasC#_Udemy\Exercicio_UdemyC#\Aula_Exercicio_04\obj\Debug\net8.0\Aula_Exercicio_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\C#.UDEMY\AulasC#_Udemy\Exercicio_UdemyC#\Aula_Exercicio_04\obj\Debug\net8.0\Aula_Exercicio_04.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\C#.UDEMY\AulasC#_Udemy\Exercicio_UdemyC#\Aula_Exercicio_04\obj\Debug\net8.0\Aula_Exercicio_04.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\C#.UDEMY\AulasC#_Udemy\Exercicio_UdemyC#\Aula_Exercicio_04\obj\Debug\net8.0\Aula_Exercicio_04.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\C#.UDEMY\AulasC#_Udemy\Exercicio_UdemyC#\Aula_Exercicio_04\bin\Debug\net8.0\Aula_Exercicio_04.exe
+C:\Users\Pichau\Desktop\C#.UDEMY\AulasC#_Udemy\Exercicio_UdemyC#\Aula_Exercicio_04\bin\Debug\net8.0\Aula_Exercicio_04.deps.json
+C:\Users\Pichau\Desktop\C#.UDEMY\AulasC#_Udemy\Exercicio_UdemyC#\Aula_Exercicio_04\bin\Debug\net8.0\Aula_Exercicio_04.runtimeconfig.json
+C:\Users\Pichau\Desktop\C#.UDEMY\AulasC#_Udemy\Exercicio_UdemyC#\Aula_Exercicio_04\bin\Debug\net8.0\Aula_Exercicio_04.dll
+C:\Users\Pichau\Desktop\C#.UDEMY\AulasC#_Udemy\Exercicio_UdemyC#\Aula_Exercicio_04\bin\Debug\net8.0\Aula_Exercicio_04.pdb
+C:\Users\Pichau\Desktop\C#.UDEMY\AulasC#_Udemy\Exercicio_UdemyC#\Aula_Exercicio_04\obj\Debug\net8.0\Aula_Exercicio_04.dll
+C:\Users\Pichau\Desktop\C#.UDEMY\AulasC#_Udemy\Exercicio_UdemyC#\Aula_Exercicio_04\obj\Debug\net8.0\refint\Aula_Exercicio_04.dll
+C:\Users\Pichau\Desktop\C#.UDEMY\AulasC#_Udemy\Exercicio_UdemyC#\Aula_Exercicio_04\obj\Debug\net8.0\Aula_Exercicio_04.pdb
+C:\Users\Pichau\Desktop\C#.UDEMY\AulasC#_Udemy\Exercicio_UdemyC#\Aula_Exercicio_04\obj\Debug\net8.0\Aula_Exercicio_04.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\C#.UDEMY\AulasC#_Udemy\Exercicio_UdemyC#\Aula_Exercicio_04\obj\Debug\net8.0\ref\Aula_Exercicio_04.dll
