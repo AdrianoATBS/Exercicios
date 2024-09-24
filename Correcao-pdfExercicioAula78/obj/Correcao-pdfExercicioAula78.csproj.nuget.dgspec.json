@@ -1,6 +1,10 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 6bdd34dfd4e20dc6326db97bb1e2335da22f7a6d
     "C:\\Users\\Adria\\OneDrive\\Desktop\\Exercício\\Correcao-pdfExercicioAula78\\Correcao-pdfExercicioAula78.csproj": {}
   },
   "projects": {
@@ -15,6 +19,25 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Adria\\AppData\\Roaming\\NuGet\\NuGet.Config"
+<<<<<<< HEAD
+=======
+=======
+    "C:\\Users\\Pichau\\Desktop\\Listas-de-Exercício\\Correcao-pdfExercicioAula78\\Correcao-pdfExercicioAula78.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Pichau\\Desktop\\Listas-de-Exercício\\Correcao-pdfExercicioAula78\\Correcao-pdfExercicioAula78.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Pichau\\Desktop\\Listas-de-Exercício\\Correcao-pdfExercicioAula78\\Correcao-pdfExercicioAula78.csproj",
+        "projectName": "Correcao-pdfExercicioAula78",
+        "projectPath": "C:\\Users\\Pichau\\Desktop\\Listas-de-Exercício\\Correcao-pdfExercicioAula78\\Correcao-pdfExercicioAula78.csproj",
+        "packagesPath": "C:\\Users\\Pichau\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pichau\\Desktop\\Listas-de-Exercício\\Correcao-pdfExercicioAula78\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pichau\\AppData\\Roaming\\NuGet\\NuGet.Config"
+>>>>>>> 78a3eb8 (Subindo Exercícios)
+>>>>>>> 6bdd34dfd4e20dc6326db97bb1e2335da22f7a6d
         ],
         "originalTargetFrameworks": [
           "net8.0"

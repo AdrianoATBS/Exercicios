@@ -8,6 +8,10 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Correcao_pdfExercicioAula78
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\Adria\OneDrive\Desktop\Exercício\Correcao-pdfExercicioAula78\
+=======
+build_property.ProjectDir = C:\Users\Pichau\Desktop\Listas-de-Exercício\Correcao-pdfExercicioAula78\
+>>>>>>> 6bdd34dfd4e20dc6326db97bb1e2335da22f7a6d
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

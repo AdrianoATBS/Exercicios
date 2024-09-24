@@ -13,7 +13,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Correcao-pdfExercicioAula71")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f44465621c1ce74ae4a68d606a6f03241714132b")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ebcf9bd825aee53a99488d9965e49af3da33107")]
+>>>>>>> 6bdd34dfd4e20dc6326db97bb1e2335da22f7a6d
 [assembly: System.Reflection.AssemblyProductAttribute("Correcao-pdfExercicioAula71")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Correcao-pdfExercicioAula71")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

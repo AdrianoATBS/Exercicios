@@ -13,7 +13,15 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Correcao-pdfExercicioAula78")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+418b0603736bc7fd2363081d429361bbf7dcc376")]
+=======
+<<<<<<< HEAD
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc4171efcecc274662710ca940c88e19c07cbad5")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+>>>>>>> 78a3eb8 (Subindo Exercícios)
+>>>>>>> 6bdd34dfd4e20dc6326db97bb1e2335da22f7a6d
 [assembly: System.Reflection.AssemblyProductAttribute("Correcao-pdfExercicioAula78")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Correcao-pdfExercicioAula78")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
